@@ -1,2 +1,2 @@
 # odin-recipes
-In this project build a simple html website and develop my git skills.
+In this project I built a simple html website and developed my git skills.
